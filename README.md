@@ -1,30 +1,30 @@
-<h1 align="center">Привіт 👋, я Сергій Павлюченко</h1>
-<h3 align="center">Frontend Developer з України 🇺🇦</h3>
+<h1 align="center">Hi 👋, I'm Serhii Pavliuchenko</h1>
+<h3 align="center">Frontend Developer from Ukraine 🇺🇦</h3>
 
 ---
 
-### 🧑‍💻 Про мене:
-- 🎓 Закінчив курси **Fullstack Developer @ GoIT**
-- 💻 Основний стек: **HTML5 / CSS3 / SASS / JavaScript / React / Redux / REST API / Git / Parcel / Node.js / MongoDB**
-- 🛠 Зараз повторюю: **Redux, React Router, проектування структури**
-- 🌱 Люблю вчитись, прокачуюсь кожного дня
-- 📫 Як зі мною зв'язатись:  
+### 🧑‍💻 About Me:
+- 🎓 Graduated from **Fullstack Developer course @ GoIT**
+- 💻 Tech stack: **HTML5 / CSS3 / SASS / JavaScript / React / Redux / REST API / Git / Parcel / Node.js / MongoDB**
+- 🛠 Currently revisiting: **Redux, React Router, project architecture**
+- 🌱 Passionate about learning and growing every day
+- 📫 How to reach me:  
   - Email: [s.pavluchenko90@gmail.com](mailto:s.pavluchenko90@gmail.com)  
-  - Телефон: +380636636323  
+  - Phone: +380636636323  
   - GitHub: [SergeyPavluchenko](https://github.com/SergeyPavluchenko)
 
 ---
 
-### 🚀 Проєкти:
-| Назва | Технології | Демо |
-|-------|------------|------|
-| **Portfolio** | HTML, CSS, JS | [Переглянути](https://sergeypavluchenko.github.io/Portfolio_/) |
-| **Ice Cream** | JS, SASS, Parcel | [Переглянути](https://lefter011.github.io/command-project-icecream/) |
-| **Filmoteka** | JS, SCSS, API, Axios | [Переглянути](https://lefter011.github.io/command-project-filmoteka/) |
+### 🚀 Projects:
+| Project | Tech Stack | Demo |
+|--------|------------|------|
+| **Portfolio** | HTML, CSS, JS | [View](https://sergeypavluchenko.github.io/Portfolio_/) |
+| **Ice Cream** | JS, SASS, Parcel | [View](https://lefter011.github.io/command-project-icecream/) |
+| **Filmoteka** | JS, SCSS, API, Axios | [View](https://lefter011.github.io/command-project-filmoteka/) |
 
 ---
 
-### 🛠 Технології:
+### 🛠 Technologies:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
@@ -49,4 +49,4 @@
 
 ---
 
-### Дякую, що завітали! Гарного кодування! 🚀
+### Thanks for visiting! Happy coding! 🚀
